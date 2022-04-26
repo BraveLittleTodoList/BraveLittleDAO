@@ -1,10 +1,10 @@
-# buildspace x thirdweb - Build your own DAO with just Javascript
 
-### **Welcome 👋**
-To get started with this project, clone this repo and follow these commands:
+# **Welcome 👋 To The Brave Little DAO ⚔️**
 
-1. Run `npm install` at the root of your directory
-2. Run `npm start` to start the project
-3. Start coding!
+This Project is a Decentralized Autonomous Organization where users mint BraveLittleDAO NFTs
+and are able to vote on proposals with native ERC20 BraveLittleTokens(BLT).
+
+
+### This project was build with buildspace.so x thirdweb
 
 
